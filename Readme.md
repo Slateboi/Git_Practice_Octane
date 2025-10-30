@@ -1,1 +1,2 @@
-This is practice repository for Team Octane Racing Electric Driverless subsystem (Parth Soni)
+This Branch consist the Lane Detection Code performed on a test video.
+
