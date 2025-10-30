@@ -1,1 +1,1 @@
-This is practice repository for Team Octane Racing Electric Driverless subsystem
+This is practice repository for Team Octane Racing Electric Driverless subsystem (Parth Soni)
