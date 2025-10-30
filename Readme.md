@@ -1,1 +1,1 @@
-This is Mayuresh and I am working in control department in DV subsystem
+This is practice repository for Team Octane Racing Electric Driverless subsystem
