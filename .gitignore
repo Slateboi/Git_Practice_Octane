@@ -1,0 +1,6 @@
+runs/
+*.pt
+yolo_pose_dataset/
+__pycache__/
+
+
