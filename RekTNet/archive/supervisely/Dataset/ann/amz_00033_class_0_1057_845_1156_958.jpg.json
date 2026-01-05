@@ -1,0 +1,72 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 113,
+        "width": 99
+    },
+    "objects": [
+        {
+            "id": 1576259045,
+            "classId": 13210152,
+            "objectId": null,
+            "description": "",
+            "geometryType": "graph",
+            "labelerLogin": "lorenzodellagiustina",
+            "createdAt": "2024-07-06T16:42:59.205Z",
+            "updatedAt": "2024-07-06T16:43:31.173Z",
+            "tags": [],
+            "classTitle": "Cone pose",
+            "nodes": {
+                "3b914664-220a-483e-9d41-cd97db9488ab": {
+                    "loc": [
+                        36,
+                        1
+                    ]
+                },
+                "361f8fbb-72b7-4274-863f-09bdcab063d9": {
+                    "loc": [
+                        53,
+                        1
+                    ]
+                },
+                "3200a2f3-88ac-4f3d-8210-ef002360fca4": {
+                    "loc": [
+                        33,
+                        32
+                    ]
+                },
+                "c8b16d15-88f1-43cf-89cc-e6261fb4f3a4": {
+                    "loc": [
+                        57,
+                        34
+                    ]
+                },
+                "b058463a-c2af-496d-b119-44e8f8b5b601": {
+                    "loc": [
+                        29,
+                        62
+                    ]
+                },
+                "4363acc0-e1c6-42da-a9a5-e97d1ddb528a": {
+                    "loc": [
+                        64,
+                        63
+                    ]
+                },
+                "330dd72a-570e-4e49-9461-3d1458a97702": {
+                    "loc": [
+                        21,
+                        91
+                    ]
+                },
+                "ce169609-eb5c-410f-8d61-71a1fd73f8df": {
+                    "loc": [
+                        73,
+                        94
+                    ]
+                }
+            }
+        }
+    ]
+}

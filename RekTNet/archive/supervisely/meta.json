@@ -1,0 +1,85 @@
+{
+    "classes": [
+        {
+            "title": "Cone pose",
+            "description": "",
+            "shape": "graph",
+            "color": "#1D1AC7",
+            "geometry_config": {
+                "edges": [],
+                "nodes": {
+                    "3b914664-220a-483e-9d41-cd97db9488ab": {
+                        "label": "1",
+                        "color": "#1D1AC7",
+                        "loc": [
+                            75,
+                            3
+                        ]
+                    },
+                    "361f8fbb-72b7-4274-863f-09bdcab063d9": {
+                        "label": "2",
+                        "loc": [
+                            134,
+                            0
+                        ]
+                    },
+                    "3200a2f3-88ac-4f3d-8210-ef002360fca4": {
+                        "label": "3",
+                        "loc": [
+                            49,
+                            149
+                        ]
+                    },
+                    "c8b16d15-88f1-43cf-89cc-e6261fb4f3a4": {
+                        "label": "4",
+                        "loc": [
+                            179,
+                            146
+                        ]
+                    },
+                    "b058463a-c2af-496d-b119-44e8f8b5b601": {
+                        "label": "5",
+                        "loc": [
+                            25,
+                            282
+                        ]
+                    },
+                    "4363acc0-e1c6-42da-a9a5-e97d1ddb528a": {
+                        "label": "6",
+                        "loc": [
+                            201,
+                            285
+                        ]
+                    },
+                    "330dd72a-570e-4e49-9461-3d1458a97702": {
+                        "label": "7",
+                        "loc": [
+                            0,
+                            445
+                        ]
+                    },
+                    "ce169609-eb5c-410f-8d61-71a1fd73f8df": {
+                        "label": "8",
+                        "loc": [
+                            242,
+                            456
+                        ]
+                    }
+                }
+            },
+            "id": 13210152,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}
